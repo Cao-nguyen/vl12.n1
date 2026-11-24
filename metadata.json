@@ -1,0 +1,6 @@
+{
+  "name": "Bài 12: Áp suất khí theo mô hình động học phân tử - Vật Lí 12",
+  "description": "Bài thuyết trình tương tác Vật Lí 12 Trường THCS và THPT Tân Quới, Tỉnh Vĩnh Long tích hợp mô phỏng động học phân tử.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
