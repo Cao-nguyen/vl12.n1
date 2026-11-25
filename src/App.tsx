@@ -78,7 +78,8 @@ const evaluationRows: EvaluationRow[] = [
   { stt: 6, name: "Nguyễn Minh Quân", task: "Soạn câu hỏi trắc nghiệm bài 12", score: "10", comment: "Soạn câu hỏi đúng trọng tâm" },
   { stt: 7, name: "Phan Kim Ngọc", task: "Soạn câu hỏi đúng sai bài 8 và 9", score: "10", comment: "Soạn câu hỏi hay, nhanh lẹ, bám sát bài học" },
   { stt: 8, name: "Lung Sơn Hoàng Phúc", task: "Soạn câu hỏi đúng sai bài 10, 11", score: "10", comment: "Soạn câu hỏi bám sát bài học" },
-  { stt: 9, name: "Nguyễn Da Vĩnh", task: "Soạn câu hỏi trả lời ngắn", score: "10", comment: "Soạn câu hỏi đúng trọng tâm bài học" }
+  { stt: 9, name: "Nguyễn Da Vĩnh", task: "Soạn câu hỏi trả lời ngắn", score: "10", comment: "Soạn câu hỏi đúng trọng tâm bài học" },
+  { stt: 10, name: "Trương Nguyễn Thành Tài", task: "Soạn câu hỏi đúng sai bài 12", score: "10", comment: "Hoàn thành tốt nhiệm vụ" }
 ];
 
 interface ReviewQuestion {
